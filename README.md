@@ -1,2 +1,4 @@
 # hello-world
-a repository for the beginning
+Hello everybody
+
+just a try for the beginning of programming
